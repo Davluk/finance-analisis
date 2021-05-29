@@ -1,0 +1,50 @@
+btc-usd 30%             90x
+etc-usd                 300x
+neo-usd                 963x
+miota-usd               3x
+ada-usd                 53x
+zec-usd                 5x
+dash-usd                45x
+bch-usd 50%             2x
+xtz-usd                 3x
+eos-usd                 5x
+ltc-usd 27%             65x
+---------
+c                       1.7x
+tgt                     2.9x
+dis                     1.8x
+0968.hk                 4.3x
+tho                     2x
+spgi                    3.6x
+pets.l                  1.7x
+neste.he                5x
+sie.de                  1.5
+msft                    5x
+msft.mx                 5x                    
+v                       3x
+0700.hk                 3x
+adm                     1.4x
+chwy                    2.1x
+rgen                    8x
+amzn                    4.8x
+goog                    3.4x
+mc.pa                   4.6x
+cvna                    21x
+fb                      2.6
+bnb                     6240x
+shop                    35x
+aapl                    5.8x
+baba                    2.8x
+jd                      3.6x
+sbux                    2x
+pypl                    7.38
+nflx                    5.3x
+tsla                    16.9x
+csco                    1.7x
+sedg                    13.8
+wdc                     1.68x
+stx                     3.8x
+xoma                    3.4x
+fe                      ...
+ew                      3x
+ehth                    5x
